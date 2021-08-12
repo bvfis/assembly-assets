@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git://github.com/diy/assembly-assets"
   },
-  "author": "Derek Reynolds <drk@diy.org>",
+  "author": "brandy frank <drk@diy.org>",
   "license": "APACHE2",
   "bugs": {
     "url": "https://github.com/diy/assembly-assets/issues"
@@ -20,3 +20,4 @@
     "tap": "^0.4.8"
   }
 }
+
